@@ -1,0 +1,2 @@
+#!/bin/sh
+python -O "/home/yaguang/Projects/mln/ProbCog/src/main/python/pmml2graphml.py" "$@"
